@@ -1,0 +1,55 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: bold expanded;
+    font-stretch: extra-expanded;
+    font-weight: bolder;
+    font-size: 3rem;
+
+}
+
+h1,
+h2 {
+    color: orangered
+}
+
+p,
+{
+    color: bisque;
+}
+
+h2 {
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: italic;
+}
+
+a {
+    color:greenyellow;
+}
+
+body {
+    text-align: center;
+    background-color: darkslategray;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 10%;
+    padding: 5%
+}
+
+li {
+    list-style-type: none;
+    padding: 10px;
+    text-align: inherit;
+}
+
+] img {
+    align-content: center;
+}
+
+img {
+    border-radius: 2em;
+    border-color: black;
+    box-shadow: inset;
+}
+
+footer {
+    font-weight: bolder;
+}
